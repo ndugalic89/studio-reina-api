@@ -1,0 +1,10 @@
+com\studioreina\model\Category.class
+com\studioreina\controller\CategoryController.class
+com\studioreina\impl\CategoryRepositoryImpl.class
+com\studioreina\repository\CategoryRepository.class
+com\studioreina\repository\custom\CategoryRepositoryCustom.class
+com\studioreina\model\Appointment.class
+com\studioreina\model\User.class
+com\studioreina\StudioReinaAPI.class
+com\studioreina\repository\ServiceRepository.class
+com\studioreina\model\Service.class
